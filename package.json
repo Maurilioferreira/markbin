@@ -1,5 +1,5 @@
 {
-  "name": "markbin",
+  "name": "markbin_”,
   "private": true,
   "scripts": {
     "start": "meteor run"
